@@ -44,6 +44,8 @@ public class Main {
         System.out.println("Задача 2");
         // Распечатайте на отдельной строчке элементы каждого массива по порядку через запятую. В конце строки запятую ставить не надо.
         System.out.println(week[0] + ", " + week[1] + ", " + week[2] + ", " + week[3] + ", " + week[4] + ", " + week[5] + ", " + week[6]);
+        System.out.println(Arrays.toString(weights));
+        System.out.println(Arrays.toString(weight));
         System.out.println(Arrays.toString(week));
 
         System.out.println();
